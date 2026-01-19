@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.wav
+test_speech.py
+good-voice/
+good-voice.py
