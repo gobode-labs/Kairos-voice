@@ -39,7 +39,7 @@ hands-free system auditing.
 ### 2. Deployment
 ```bash
 # Clone and enter
-git clone [YOUR_URL]
+git clone 
 cd kairos-voice
 
 # Environment setup
